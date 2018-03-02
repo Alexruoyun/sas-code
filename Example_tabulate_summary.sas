@@ -1,5 +1,5 @@
 *Example_tabulate_summary.sas;
-*Contributed by PGStats to SAS-L (2/26/2018)
+*Contributed by PGStats to SAS-L (2/26/2018);
 data score;
    infile datalines delimiter=','; 
    input name $ score  YEAR ;
